@@ -10,7 +10,6 @@ the function should return 3.
 """
 import math
 def solution(X, Y, D):
-    # Implement your solution here
     return math.ceil((Y-X) / D)
 
 X = 10
